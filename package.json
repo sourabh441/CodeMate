@@ -1,0 +1,21 @@
+{
+  "name": "dev_tinder",
+  "version": "1.0.0",
+  "description": "tinder for dvelopers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "js",
+    "backend"
+  ],
+  "author": "sourabh sahita",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
